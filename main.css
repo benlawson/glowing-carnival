@@ -95,4 +95,11 @@ blink {
     opacity: 0;
   }
 }
-
+html, body{
+	-webkit-font-smoothing:antialiased;
+	font-family: "Comic Sans MS", sans-serif;
+	line-height:1.4;
+	margin:0 auto;
+	max-width:860px;
+	height: 100%;
+}
